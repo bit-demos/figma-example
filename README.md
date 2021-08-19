@@ -13,6 +13,8 @@ npm i -g @teambit/bvm
 bvm install
 ```
 
+Note: You can also use git to clone this project and test it out. However if you want to use this as a base project that you can then export to your own remote scope use the method below. 
+
 Create an empty workspace. (skip this step if you want to import the components into an already created workspace)
 
 ```bash

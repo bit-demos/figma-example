@@ -1,4 +1,4 @@
-# Figma Example
+# Figma embeds in your Bit Components
 
 Example components with Figma embeds so Designers and Developers can work side by side with live updates to desings, the possibility to zoom in and out and clicking the link to take you right to the Figma file so you can properly inspect the Deign.
 
